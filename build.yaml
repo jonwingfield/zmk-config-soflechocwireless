@@ -15,5 +15,6 @@
 include:
   - board: nrfmicro_13
     shield: sofle_left
+    snippet: zmk-usb-logging
   - board: nrfmicro_13
     shield: sofle_right
